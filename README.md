@@ -37,7 +37,7 @@ The repository includes a GitHub Pages workflow. After pushing to `main`:
 2. Select **Settings → Pages**.
 3. Set **Source** to **GitHub Actions**.
 4. Let the `Deploy Haunted Catwalk Academy` workflow finish.
-5. Bookmark `https://reb-eng.github.io/3rd-grade-head-start/` on the learner's computer.
+5. Bookmark `https://positive-pickles.github.io/catwalk-academy/` on the learner's computer.
 
 The published site is publicly reachable, but cat names, outfits, and learning progress remain in that browser's local storage and are not uploaded.
 - Progress remains in the browser's local storage.

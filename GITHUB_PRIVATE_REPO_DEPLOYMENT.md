@@ -23,7 +23,7 @@ Use a private repository with GitHub Pages and GitHub Actions. This provides the
 
 ### Requirements
 
-- The repository is located at `reb-eng/3rd-grade-head-start`.
+- The repository is located at `Positive-Pickles/catwalk-academy`.
 - The repository visibility is **Private**.
 - The repository owner has GitHub Pro, GitHub Team, or GitHub Enterprise. GitHub Free only supports Pages from public repositories.
 - The project has been committed and pushed to the `main` branch.
@@ -37,7 +37,7 @@ The repository already contains the deployment workflow:
 ## Part 1: Confirm that the repository is private
 
 1. Sign in to GitHub using the account that owns the repository.
-2. Open `https://github.com/reb-eng/3rd-grade-head-start`.
+2. Open `https://github.com/Positive-Pickles/catwalk-academy`.
 3. Look near the repository name for the **Private** badge.
 4. If it says **Public**, open **Settings**.
 5. On the **General** page, scroll to **Danger Zone**.
@@ -86,7 +86,7 @@ The workflow checks the code, creates a production build, and publishes only the
 3. The expected address is:
 
    ```text
-   https://reb-eng.github.io/3rd-grade-head-start/
+   https://positive-pickles.github.io/catwalk-academy/
    ```
 
 4. Confirm that Haunted Catwalk Academy opens.
@@ -100,7 +100,7 @@ Publication can take several minutes after a successful workflow run. A temporar
 On her computer:
 
 1. Open Chrome, Edge, Firefox, or Safari.
-2. Visit `https://reb-eng.github.io/3rd-grade-head-start/`.
+2. Visit `https://positive-pickles.github.io/catwalk-academy/`.
 3. Confirm that the address begins with `https://`.
 4. Bookmark the page.
 5. Rename the bookmark to **Haunted Catwalk Academy**.
@@ -117,7 +117,7 @@ To preserve them:
 
 - Use the same browser and browser profile each time.
 - Do not use private or incognito browsing.
-- Do not clear cookies and site data for `reb-eng.github.io`.
+- Do not clear cookies and site data for `positive-pickles.github.io`.
 - Do not use automated cleanup software that deletes browser site storage.
 - Remember that another computer or browser will start with an empty Academy.
 
